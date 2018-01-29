@@ -1,2 +1,2 @@
 sdf
-sfdfsdf
+sfdfsdfgit log --graph --pretty=oneline --abbrev-commit
